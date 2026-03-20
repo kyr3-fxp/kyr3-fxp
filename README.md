@@ -26,13 +26,6 @@ Me gusta aprender constantemente y mantenerme actualizado con las últimas tende
 
 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kioto-undefined-16a1343b0/) <br><br>
-Discord:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.com/users/549701760697106472) <br><br>
-Instagram:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram\&logoColor=white)](https://www.instagram.com/youdontgetithere?igsh=MnFmaXJod3l4bDkw) <br><br>
-Facebook:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook\&logoColor=white)](https://www.facebook.com/share/1LBEycn96c/)
-
 
 # 💻 Tech Stack:
 
