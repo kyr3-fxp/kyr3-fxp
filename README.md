@@ -29,16 +29,31 @@ LinkedIn:
 
 # 💻 Tech Stack:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white )
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white )
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white )
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white )
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop&logoColor=white )
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=illustrator&logoColor=white )
+
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge\&logo=git\&logoColor=white)
 
 
 
+
 # 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kyr3-fxp&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kyr3-fxp&show_icons=true&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kyr3-fxp&theme=tokyonight&hide_border=false)<br/>
 
@@ -50,10 +65,6 @@ LinkedIn:
 
 
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 
