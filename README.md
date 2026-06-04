@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Kyr3
+# 👋 ¡Hola! Soy Jose David Fuentes
 
 Soy desarrollador Front-End apasionado por crear interfaces modernas, intuitivas y eficientes. Me enfoco en transformar ideas en experiencias digitales atractivas, cuidando tanto la estética como el rendimiento.
 
@@ -23,9 +23,8 @@ Me gusta aprender constantemente y mantenerme actualizado con las últimas tende
 
 
 ## 🌐 Socials:
-
-LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kioto-undefined-16a1343b0/) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kioto-undefined-16a1343b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youdontgetithere?igsh=MnFmaXJod3l4bDkw)
 
 # 💻 Tech Stack:
 
