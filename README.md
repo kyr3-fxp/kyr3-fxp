@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Animated Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola!+Soy+Jose+David+Fuentes+%F0%9F%90%A7;Full-Stack+%26+Frontend+Engineer+%F0%9F%92%BB;AI+Integrator+%26+Creative+UI%2FUX+Designer+%F0%9F%8E%A8;Laravel+11+%7C+Flutter+%7C+Tailwind+v4+%7C+JS+3D+Canvas+%E2%9A%A1;Construyendo+experiencias+digitales+de+alto+rendimiento+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola!+Soy+Jose+David+Fuentes+%F0%9F%90%A7;Full-Stack+%26+Frontend+Engineer+%F0%9F%92%BB;AI+Integrator+%26+Cybersecurity+Developer+%F0%9F%9B%A1%EF%B8%8F;Laravel+11+%7C+Flutter+%7C+C%2B%2B17+%7C+JS+3D+Canvas+%E2%9A%A1;Construyendo+software+seguro+y+de+alto+rendimiento+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br />
@@ -20,12 +20,12 @@
 
 ## 👤 Sobre mí
 
-Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formación en el **SENA** y un enfoque multidisciplinario que fusiona la **arquitectura de software limpia y escalable** con el **diseño interactivo de vanguardia** e **integración de Inteligencia Artificial Generativa**.
+Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formación en el **SENA** y un enfoque multidisciplinario que fusiona la **arquitectura de software limpia y escalable** con el **diseño interactivo de vanguardia**, **integración de Inteligencia Artificial Generativa** y **ciberseguridad defensiva**.
 
 - 🤖 **IA & Desarrollo Moderno:** Experiencia integrando modelos LLM (LLaMA 3.3 70B, Google Gemini) en aplicaciones de producción y flujos de trabajo agénticos para potenciar analítica y automatización.
 - 🎨 **Ingeniería Visual & UI/UX:** Apasionado por la aceleración por GPU, renderizado a 60 FPS con `CustomPainter` (Flutter), interfaces *Glassmorphism / Liquid Glass UI* y motores 3D vectoriales construidos en JavaScript puro.
 - ⚡ **Full-Stack Robusto:** Arquitecturas limpias basadas en el patrón **MVC**, microservicios y RESTful APIs con **Laravel 11**, **Tailwind CSS v4**, **Vite** y persistencia en bases de datos relacionales.
-- 🎮 **Desarrollo de Sistemas & Juegos:** Experiencia en desarrollo modular cliente-servidor y optimización de redes en **Roblox Luau**.
+- 🛡️ **Ciberseguridad Defensiva & Sistemas C++:** Desarrollo de herramientas de auditoría de autenticación, cálculo de entropía de Shannon, mitigación de vectores (*Sliding Window Rate Limiting*, *Exponential Backoff*) e interfaces nativas en **C++17 & Win32**.
 - 📍 **Ubicación:** Colombia 🇨🇴
 
 ---
@@ -75,15 +75,15 @@ Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formaci
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/kyr3-fxp">Roblox Combat Arena — Sistema Multijugador</a></h3>
-      <p>Arquitectura de combate multijugador y sistemas dinámicos para Roblox Engine implementada en Luau con alta eficiencia cliente-servidor.</p>
+      <h3>🛡️ <a href="https://github.com/kyr3-fxp/InstagramSecurityLab">Instagram Security Lab — Ciberseguridad Defensiva</a></h3>
+      <p>Entorno de simulación de ciberseguridad defensiva y auditoría en C++17 para evaluar controles modernos de autenticación y mitigación de amenazas.</p>
       <ul>
-        <li><b>Arquitectura Modular:</b> Separación de responsabilidades con <code>ServerScriptService</code>, <code>ReplicatedStorage</code>, <code>StarterPlayerScripts</code> y <code>StarterGui</code>.</li>
-        <li><b>Combate Dinámico:</b> Algoritmos de hitbox y raycasting, gestión de cooldowns, habilidades y sincronización de auras cosméticas.</li>
-        <li><b>Economía & Leaderboards:</b> Gestión segura de leaderstats, zonas de seguridad (SafeZones) y tienda interactiva.</li>
+        <li><b>Análisis de Entropía & Riesgo:</b> Motor de cálculo de entropía de Shannon, detección de patrones vulnerables y cruce contra diccionarios de filtraciones.</li>
+        <li><b>Simulador de Ataques & Contramedidas:</b> Simulación local de <i>Brute Force</i>, <i>Credential Stuffing</i> y <i>Password Spraying</i> evaluando <i>Rate Limiting (Sliding Window)</i> y <i>Exponential Backoff</i>.</li>
+        <li><b>Auditoría & GUI Nativa:</b> Interfaz gráfica nativa Win32 y suite de pruebas para evaluar postura defensiva (2FA/FIDO2, higiene de sesiones).</li>
       </ul>
       <p>
-        <code>Luau</code> <code>Roblox Engine</code> <code>Client-Server Networking</code> <code>State Management</code>
+        <code>C++17</code> <code>Win32 API</code> <code>CMake</code> <code>Cybersecurity</code> <code>Shannon Entropy</code> <code>Defensive Auditing</code>
       </p>
     </td>
   </tr>
@@ -120,14 +120,17 @@ Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formaci
 </details>
 
 <details open>
-  <summary><b>⚙️ Backend, APIs & Arquitectura</b> <i>(Haz clic para desplegar/contraer)</i></summary>
+  <summary><b>⚙️ Backend, Sistemas & Ciberseguridad</b> <i>(Haz clic para desplegar/contraer)</i></summary>
   <br/>
 
+  ![C++17](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+  ![Defensive Security](https://img.shields.io/badge/Ciberseguridad_Defensiva-E02424?style=for-the-badge&logo=hack-the-box&logoColor=white)
   ![Laravel 11](https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Luau](https://img.shields.io/badge/Luau_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
   ![NASA POWER API](https://img.shields.io/badge/NASA_POWER_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
   ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
@@ -160,9 +163,10 @@ Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formaci
 Full-Stack Web (Laravel 11, JS ES6+, Tailwind v4, Vite) [████████████████████] 95%
 Diseño UI/UX (Glassmorphism, Liquid Glass, Figma)       [██████████████████░░] 92%
 Integración de IA (LLMs LLaMA/Gemini, APIs, Prompting)  [█████████████████░░░] 88%
+Ciberseguridad & C++ (Win32, Entropía, Rate Limiting)   [████████████████░░░░] 85%
 Desarrollo Multiplataforma (Flutter, Dart, CustomPainter)[████████████████░░░░] 85%
 Bases de Datos & Arquitectura MVC (MySQL/PostgreSQL)     [████████████████░░░░] 85%
-Motores Gráficos & Videojuegos (Canvas 3D, Luau Roblox) [███████████████░░░░░] 80%
+Motores Gráficos & 3D Math (Canvas 3D Puro en JS)       [███████████████░░░░░] 80%
 ```
 
 ---
@@ -214,5 +218,5 @@ Motores Gráficos & Videojuegos (Canvas 3D, Luau Roblox) [███████�
 ---
 
 <div align="center">
-  <sub>⚡ Diseñado e impulsado por la intersección de ingeniería de software e Inteligencia Artificial • <a href="https://github.com/kyr3-fxp">Jose David Fuentes</a></sub>
+  <sub>⚡ Diseñado e impulsado por la intersección de ingeniería de software, Ciberseguridad e Inteligencia Artificial • <a href="https://github.com/kyr3-fxp">Jose David Fuentes</a></sub>
 </div>
