@@ -157,18 +157,6 @@ Desarrollador de Software **Full-Stack & Frontend Engineer** con sólida formaci
 
 ---
 
-## 📈 Dominio Técnico & Especialización
-
-```text
-Full-Stack Web (Laravel 11, JS ES6+, Tailwind v4, Vite) [████████████████████] 95%
-Diseño UI/UX (Glassmorphism, Liquid Glass, Figma)       [██████████████████░░] 92%
-Integración de IA (LLMs LLaMA/Gemini, APIs, Prompting)  [█████████████████░░░] 88%
-Ciberseguridad & C++ (Win32, Entropía, Rate Limiting)   [████████████████░░░░] 85%
-Desarrollo Multiplataforma (Flutter, Dart, CustomPainter)[████████████████░░░░] 85%
-Bases de Datos & Arquitectura MVC (MySQL/PostgreSQL)     [████████████████░░░░] 85%
-Motores Gráficos & 3D Math (Canvas 3D Puro en JS)       [███████████████░░░░░] 80%
-```
-
 ---
 
 ## 📊 Estadísticas de GitHub
